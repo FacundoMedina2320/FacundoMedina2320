@@ -15,7 +15,7 @@
   <ul>
     <li>📱 Teléfono: +54 2215949294</li>
     <li>✉️ Correo electrónico: <a href="mailto:facundomedina2320@gmail.com">facundomedina2320@gmail.com</a></li>
-    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/facundomedina-832b8a274/">Facundo Medina</a></li>
+    <li>💼 LinkedIn: <a href="www.linkedin.com/in/facundo-medina-it">Facundo Medina</a></li>
   </ul>
 
   <h2>Aptitudes principales</h2>
