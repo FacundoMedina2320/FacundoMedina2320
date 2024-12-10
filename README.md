@@ -25,7 +25,7 @@ Welcome to my GitHub! I specialize in building robust solutions for databases, s
 ## 🌟 My Work
 Explore all my projects in one place:
 
-[🐙 My GitHub Repositories](https://github.com/FacundoMedina2320)
+[🐙 My GitHub Repositories](https://github.com/FacundoMedina2320?tab=repositories)
 
 ---
 
