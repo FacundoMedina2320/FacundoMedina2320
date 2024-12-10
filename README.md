@@ -6,11 +6,7 @@
 
 Welcome to my GitHub! I specialize in building robust solutions for databases, servers, and system administration. Feel free to explore my repositories and use my tools to boost your projects!
 
-<h2>📧 Contact Me</h2>
-   <ul>
-    <li>✉️ Correo electrónico: <a href="mailto:facundomedina2320@gmail.com">facundomedina2320@gmail.com</a></li>
-    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/facundo-medina-it">Facundo Medina</a></li>
-  </ul>
+[📧 Contact Me](mailto:facundomedina2320@gmail.com)
 
 ---
 
