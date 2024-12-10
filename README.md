@@ -1,43 +1,42 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
 
-<div class="container">
-  <img src="https://i.pinimg.com/564x/54/e7/e7/54e7e789c5f608ab96690ad3c5bba435.jpg" alt="Foto de perfil de Facundo Medina" class="profile-img" style="width: 200px;">
-  <h1>¡Hola! Soy Facundo Medina</h1>
-  <p>¡Bienvenido/a a mi perfil de GitHub! Aquí encontrarás información sobre mí, mi experiencia laboral, habilidades y cómo contactarme.</p>
-  
-  <h2>Contacto</h2>
+<!-- README.md -->
+<img src="https://i.pinimg.com/564x/54/e7/e7/54e7e789c5f608ab96690ad3c5bba435.jpg" alt="Facundo Medina" width="150" style="border-radius: 50%; margin-bottom: 10px;">
+
+# Hello! I'm Facundo Medina
+
+Welcome to my GitHub! I specialize in building robust solutions for databases, servers, and system administration. Feel free to explore my repositories and use my tools to boost your projects!
+
+<h2>📧 Contact Me</h2>
    <ul>
-    <li>📱 Teléfono: +54 2215949294</li>
     <li>✉️ Correo electrónico: <a href="mailto:facundomedina2320@gmail.com">facundomedina2320@gmail.com</a></li>
     <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/facundo-medina-it">Facundo Medina</a></li>
   </ul>
 
-  <h2>Aptitudes principales</h2>
-  <ul>
-    <li>Evaluación de vulnerabilidad</li>
-    <li>Ciberseguridad</li>
-    <li>Vulnerabilidades de bases de datos</li>
-    <li>Certificaciones en Seguridad de Redes y Bases de Datos, Cumplimiento de Ciberseguridad, Marco de Cumplimiento y Administración de Sistemas, Evaluación de Vulnerabilidades, Computación en la Nube, Roles de Ciberseguridad, Procesos y Seguridad del Sistema Operativo</li>
-  </ul>
+---
 
-  <h2>Experiencia</h2>
-  <h3>Asesor de Tecnología de la Información en Simparh</h3>
-  <p><strong>enero de 2023 - Presente </strong></p>
-  <p>En SIMPARH, formo parte de un proyecto provincial centrado en la medición hídrica de los ríos principales para prevenir y monitorear inundaciones y otros riesgos. Como Asesor Informático, superviso la adquisición y administración de nuestra infraestructura tecnológica, que incluye estaciones meteorológicas, estaciones de trabajo y servidores. Emocionado por contribuir a esta iniciativa vital a través de mi rol en la administración tecnológica.</p>
+## 💡 What I Do
+- 🚀 DevOps Enthusiast
+- 🔐 Cybersecurity Explorer
+- 📡 Networking Specialist
+- 🛠️ Database and Server Architect
 
+---
 
-  <h2>Educación</h2>
-  <p><strong>Licenciatura en Administración de Infraestructura Tecnológica, Universidad Siglo 21</strong></p>
-  <p>enero de 2023 - diciembre de 2026</p>
+## 🌟 My Work
+Explore all my projects in one place:
 
-  <p>¡Gracias por visitar mi perfil!</p>
-</div>
+[🐙 My GitHub Repositories](https://github.com/FacundoMedina2320)
 
-</body>
-</html>
+---
+
+## 📚 Certifications
+- 🌐 Cloud Computing - Google Actívate
+- 🔒 Network Security - Coursera
+- ⚙️ Cybersecurity Tools - IBM
+
+---
+
+## ✨ Let's Connect!
+I'm always open to collaborating on exciting projects or exchanging knowledge. Let's build something amazing together!
+
+[🔗 LinkedIn](https://www.linkedin.com/in/facundo-medina-it) | [🐙 GitHub](https://github.com/facundomedina)
